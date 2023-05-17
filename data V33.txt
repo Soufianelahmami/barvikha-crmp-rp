@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Barvikha CRMP RP (Crime Role-Play) is a popular multiplayer role-playing game that has captivated gaming enthusiasts around the world.","photo2":"https://iili.io/HUQB9cJ.jpg"},
+  {"desc3":"With its immersive virtual world, engaging gameplay mechanics, and a vibrant community, Barvikha CRMP RP offers players a unique and thrilling experience. ","photo3":"https://iili.io/HUQqbMF.jpg"},
+  {"desc4":" This article delves into the intricacies of this game, discussing its origins, gameplay elements, community dynamics, and its enduring appeal.","photo4":"https://iili.io/HUQqm6g.jpg"},
+  {"desc5":"Barvikha CRMP RP originated from the Russian gaming community and was developed by a dedicated team of enthusiasts. ","photo5":"https://iili.io/HUQqyFa.jpg"},
+  {"descd":"The game takes inspiration from the world of organized crime, drawing on elements of the popular Grand Theft Auto series. ","photod":"https://iili.io/HUQBH8v.jpg"}
    ]
  
 }
